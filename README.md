@@ -1,6 +1,10 @@
 <h1 align="center">Hola, soy Diego Alejandro Paloma Díaz 👋</h1>
 
 <p align="center">
+  <img src="banner.png" alt="Banner Diego Alejandro Paloma Díaz" width="100%" />
+</p>
+
+<p align="center">
   Tencnico en programacion de software | Aprendiz SENA 🟢 <br>
   Participante WorldSkills Colombia 2025 💻 | Aprendiz SENA 🟢 <br>
   Apasionado por el desarrollo web, diseño de interfaces y resolución de retos técnicos. <br>
@@ -9,7 +13,7 @@
 
 # 🔎 Sobre mí
 
-🎓 Soy Técnico en Programación de Software y actualmente curso el Tecnólogo en Análisis y Desarrollo de Software en el SENA.  
+🎓 Soy Técnico en Programación de Software y actualmente curso el Tecnólogo en Análisis y Desarrollo de Software en el SENA tambien cuneto con multiples certificados en el uso de nuevas tecnologias y de ingles.  
 💡 Estoy en proceso de formación para convertirme en Ingeniero de Software, con un enfoque fuerte en el desarrollo web, lógica y estructura de aplicaciones modernas.  
 🚀 Actualmente me estoy preparando para competir en WorldSkills Colombia 2025 en la habilidad de Tecnologías Web.
 
@@ -48,8 +52,9 @@ Trabajo constantemente en fortalecer mis fundamentos para enfrentar desafíos re
 ## 📁 Proyectos destacados
 
 - 🎯 [WorldSkills Módulo A - Speed Test](https://github.com/Diegoalejandro17/entrenamiento-worldskills)
-- 💡 [Menú animado con CSS Grid](#)
-- 🧠 [Algoritmos en JavaScript](#)
+- 💡 [WisdomX](https://wisdomx01.free.nf/HTML/index.html)
+- 🧠 [Gestion de medalleria olimpiadas Laravel + React - ejercicio worldskills](#)
+- 📱 [Sistema de autenticacion movil con react native](#)
 
 
 ## 📜 Licencia

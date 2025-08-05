@@ -49,7 +49,7 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 
 - 🎯 [WorldSkills Módulo A - Speed Test](https://github.com/Diegoalejandro17/entrenamiento-worldskills)
 - 💡 [WisdomX](https://wisdomx01.free.nf/HTML/index.html)
-- 🧠 [Gestión de medallería Olimpiadas (Laravel + React)](#)
+- 🧠 [Gestión de medallería Olimpiadas (Laravel + React)](https://github.com/Diegoalejandro17/Gestion-de-medallas-y-pasies-)
 - 📱 [Sistema de autenticación móvil con React Native](#)
 
 ## 📜 Licencia
